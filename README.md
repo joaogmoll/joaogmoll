@@ -18,4 +18,4 @@
  
  ##
  
- ![Snake animation](https://raw.githubusercontent.com/joaogmoll/joaogmoll/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/joaogmoll/joaogmoll/blob/output/github-contribution-grid-snake.svg)
